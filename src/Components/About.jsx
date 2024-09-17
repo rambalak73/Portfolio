@@ -9,7 +9,7 @@ export default function About() {
         <div className="flex items-center justify-center md:w-1/2">
           <img
             className="object-cover w-full max-w-md border-4 border-gray-900 shadow-lg shadow-blue-500/40 hover:shadow-indigo-500/40 transition-all duration-300"
-            src="/src/Images/about.jpeg"
+            src="https://drive.google.com/file/d/18QFoXx5Du0ZbM3vjg_p5Dqn2LTMMhbqP/view?usp=sharing"
             alt="Rambalak Shahu"
           />
         </div>
@@ -106,7 +106,7 @@ export default function About() {
         <div className="flex items-center justify-center p-4 md:w-1/2 w-full">
           <img
             className="object-cover w-full max-w-md border-4 border-gray-800 shadow-lg shadow-blue-500/40 hover:shadow-indigo-500/40 transition-all duration-300"
-            src="/src/Images/about2.jpeg"
+            src="https://drive.google.com/file/d/1iqo2JRRWphnXIcXLrh8bJJYDQh_8hUr3/view?usp=sharing"
             alt="Tech Journey"
           />
         </div>

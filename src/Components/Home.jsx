@@ -61,7 +61,7 @@ const ImageSection = () => {
     <div className="flex justify-center items-center h-screen w-full md:w-1/2 p-8">
       <img
         className="rounded-bl-full max-h-[70%] md:max-h-[80%] lg:max-h-[80%] shadow-lg transition-all duration-500 transform hover:scale-105 hover:shadow-green-800"
-        src="/src/Images/home.jpg"
+        src="https://drive.google.com/file/d/1pFhPN3vURg_PYCY_B8iqVkx6rTv-WKs1/view?usp=sharing"
         alt="Home Image"
       />
     </div>
