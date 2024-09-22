@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
   const getNavLinkClass = ({ isActive }) =>
-    isActive ? "underline font-bold" : "";
+    isActive ? "underline font-bold text-yellow-500" : "";
 
   return (
     <nav className="flex justify-between items-center mx-auto top-[20px] backdrop-blur-md px-5 md:px-10 bg-[#2c3e5073] fixed rounded-full text-white shadow-lg w-full max-w-[1000px] left-0 right-0 z-50">
@@ -14,22 +14,22 @@ const Navbar = () => {
       </a>
 
       <ul className="flex gap-5 md:gap-7 items-center">
-        <li>
+        <li className="hover:scale-110 hover:font-bold">
           <NavLink to="/home" className={getNavLinkClass}>
             Home
           </NavLink>
         </li>
-        <li>
+        <li className="hover:scale-110 hover:font-bold">
           <NavLink to="/skills" className={getNavLinkClass}>
             Skills
           </NavLink>
         </li>
-        <li>
+        <li className="hover:scale-110 hover:font-bold">
           <NavLink to="/balak" className={getNavLinkClass}>
             Balak
           </NavLink>
         </li>
-        <li>
+        <li className="hover:scale-110 hover:font-bold">
           <NavLink to="/about" className={getNavLinkClass}>
             About
           </NavLink>

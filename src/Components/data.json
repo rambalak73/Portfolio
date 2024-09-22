@@ -5,7 +5,7 @@
         "width": 5000,
         "height": 3333,
         "url": "https://unsplash.com/photos/yC-Yzbqy7PY",
-        "download_url": "https://picsum.photos/id/0/5000/3333"
+        "download_url": "/Slider/banaras.png"
     },
     {
         "id": "1",
@@ -13,7 +13,7 @@
         "width": 5000,
         "height": 3333,
         "url": "https://unsplash.com/photos/LNRyGwIJr5c",
-        "download_url": "https://picsum.photos/id/1/5000/3333"
+        "download_url": "/Slider/ringas.png"
     },
     {
         "id": "2",
@@ -21,7 +21,7 @@
         "width": 5000,
         "height": 3333,
         "url": "https://unsplash.com/photos/N7XodRrbzS0",
-        "download_url": "https://picsum.photos/id/2/5000/3333"
+        "download_url": "/Slider/banaras.png"
     },
     {
         "id": "3",

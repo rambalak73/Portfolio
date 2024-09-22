@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Banaras (Varanasi)",
+        "famous_temples": "Kashi Vishwanath Temple, Durga Temple",
+        "summary": "Banaras, one of the oldest cities in the world, is a spiritual hub of India. Known for its ghats along the River Ganges, it attracts pilgrims from all over the world.",
+        "slider_url": "/Slider/banaras2.png",
+        "spiritual_image_url": "https://media.licdn.com/dms/image/v2/D4D22AQGF8iAmybj4cA/feedshare-shrink_800/feedshare-shrink_800/0/1690787915671?e=2147483647&v=beta&t=RAWtV3U31AJwe36A-G36MD9q0bR98WABu3uN-Q_Px2M",
+        "drive_diary_url": "https://example.com/banaras-drive-diary"
+    },
+    {
+        "name": "Vaishno Devi (Katra)",
+        "famous_temples": "Vaishno Devi Temple, Bhairavnath Temple, Ardhkuwari Temple",
+        "summary": "Vaishno Devi is one of the most revered pilgrimage sites in India, located in the Trikuta Mountains. The temple is dedicated to Goddess Vaishno Devi, and millions of devotees visit every year.",
+        "slider_url": "/Slider/katra.png",
+        "spiritual_image_url": "https://rukminim2.flixcart.com/image/850/1000/kxnl6kw0/shopsy-poster/z/v/g/medium-maa-vaishno-devi-wallpaper-hd-pindi-darshan-poster-on-original-imaga2dhtxfbkznv.jpeg?q=90&crop=false",
+        "drive_diary_url": "https://example.com/vaishno-devi-drive-diary"
+    },
+    {
+        "name": "Vrindavan",
+        "famous_temples": "Banke Bihari Temple, ISKCON Vrindavan, Prem Mandir, Radha Raman Temple, Madan Mohan Temple",
+        "summary": "Vrindavan is a sacred town known for its association with Lord Krishna's early life. It's famous for its beautiful temples and the vibrant Holi festival.",
+        "slider_url": "/Slider/banaras3.png",
+        "spiritual_image_url": "https://www.indiantempletour.com/wp-content/uploads/2023/05/vrindavan-1024x682-1.jpg",
+        "drive_diary_url": "https://example.com/vrindavan-drive-diary"
+    },
+    {
+        "name": "Mathura",
+        "famous_temples": "Krishna Janmasthan Temple",
+        "summary": "Mathura, the birthplace of Lord Krishna, is a major Hindu pilgrimage site. The Krishna Janmasthan Temple complex attracts visitors from across the world.",
+        "slider_url": "/Slider/vrindavan.png",
+        "spiritual_image_url": "/Images/mathura.png",
+        "drive_diary_url": "https://example.com/mathura-drive-diary"
+    },
+    {
+        "name": "Ujjain",
+        "famous_temples": "Mahakaleshwar Temple, Kal Bhairav Temple, Harsiddhi Temple, Chintaman Ganesh Temple, Mangalnath Temple",
+        "summary": "Ujjain is one of the seven sacred cities in Hinduism, famous for the Mahakaleshwar Temple dedicated to Lord Shiva. The city also hosts the Kumbh Mela every 12 years.",
+        "slider_url": "/Slider/ujjain.png",
+        "spiritual_image_url": "/Images/ujjain.png",
+        "drive_diary_url": "https://example.com/ujjain-drive-diary"
+    },
+    {
+        "name": "Khatoo Shyam",
+        "famous_temples": "Shyam Baba Temple",
+        "summary": "Khatoo Shyam is a small village in Rajasthan known for the temple of Shyam Baba, who is believed to be an incarnation of Barbarika, a character from the Mahabharata.",
+        "slider_url": "https://dynamic.tourtravelworld.com/package-images/photo-big/dir_59/1742810/405602.jpg",
+        "spiritual_image_url": "/Images/khatoo.png",
+        "drive_diary_url": "/"
+    },
+    {
+        "name": "Taj Mahal (Agra)",
+        "famous_temples": "",
+        "summary": "The Taj Mahal, an iconic symbol of love, is a UNESCO World Heritage site and one of the Seven Wonders of the World. Built by Mughal Emperor Shah Jahan, it attracts millions of visitors annually.",
+        "slider_url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/10/3e/7a/77.jpg",
+        "spiritual_image_url": "/Images/taj.png",
+        "drive_diary_url": "https://example.com/taj-mahal-drive-diary"
+    },
+    {
+        "name": "Kurukshetra",
+        "famous_temples": "Brahma Sarovar, Sthaneshwar Mahadev Temple, Bhadrakali Temple",
+        "summary": "Kurukshetra is the legendary site of the great battle of the Mahabharata. It is a sacred place for Hindus, famous for the Brahma Sarovar and various other historical and religious sites.",
+        "slider_url": "/Slider/kruk.png",
+        "spiritual_image_url": "/Images/krukshektra.jpg",
+        "drive_diary_url": "https://example.com/kurukshetra-drive-diary"
+    },
+    {
+        "name": "Haridwar",
+        "famous_temples": "Har Ki Pauri, Mansa Devi Temple, Chandi Devi Temple, Maya Devi Temple,RishiKesh",
+        "summary": "Haridwar is one of the holiest cities in India, where the Ganges River flows. It's known for its ghats, especially Har Ki Pauri, where devotees take a dip to wash away sins.",
+        "slider_url": "https://www.travelchhutichhuti.com/images/haridwar-tour-package.jpg",
+        "spiritual_image_url": "https://i.pinimg.com/736x/9e/24/92/9e2492566313aadf2db0471e175e00ee.jpg",
+        "drive_diary_url": "https://example.com/haridwar-drive-diary"
+    }
+]
